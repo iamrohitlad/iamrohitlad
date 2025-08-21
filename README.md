@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Lad A software engineer working in IT sector India </h1>
-<h3 align="center">I’m a DevOps Engineer with 3.5 years of hands-on experience in the IT industry, blending development, automation, and support to deliver scalable, efficient solutions. My career began in Java development and SQL database management, where I built a solid foundation in backend systems and data operations. Over time, I expanded my expertise into technical support, project enhancements, and automation workflows using Automation Anywhere. Currently, I’m actively transitioning into DevOps practices—working with tools like Jenkins, Docker, Kubernetes, and CI/CD pipelines. My passion lies in streamlining deployment cycles, optimizing process flows, and bridging cross-functional teams to drive operational excellence.</h3>
+<h3 align="center">I’m a DevOps Engineer with 3.5 plus years of hands-on experience in the IT industry, blending development, automation, and support to deliver scalable, efficient solutions. My career began in Java development and SQL database management, where I built a solid foundation in backend systems and data operations. Over time, I expanded my expertise into technical support, project enhancements, and automation workflows using Automation Anywhere. Currently, I’m actively transitioning into DevOps practices—working with tools like Jenkins, Docker, Kubernetes, and CI/CD pipelines. My passion lies in streamlining deployment cycles, optimizing process flows, and bridging cross-functional teams to drive operational excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrohitlad&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohitlad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrohitlad" alt="iamrohitlad" /></a> </p>
 
-- 🔭 I’m currently working on [Devops & Automation Anyhwhere](Streamlining workflows: Making processes faster and more efficient. Improving reliability: Building systems that are more stable and less prone to errors. Enabling faster delivery: Getting software from development to production quickly and safely. Leveraging tools: Using technologies to automate repetitive tasks across various environments.)
+- 🔭 I’m currently working on [Devops & AWS AZURE Cloud Fundamentals](Streamlining workflows: Making processes faster and more efficient. Improving reliability: Building systems that are more stable and less prone to errors. Enabling faster delivery: Getting software from development to production quickly and safely. Leveraging tools: Using technologies to automate repetitive tasks across various environments.)
 
 - 🌱 I’m currently learning **Devops and building my knowledge in corporate projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly update my complete devops journey on [https://github.com/iamrohitlad/My-Devops-Training-Journal-](https://github.com/iamrohitlad/My-Devops-Training-Journal-)
 
-- 💬 Ask me about **Devops , Application Support & Automation Anywhere**
+- 💬 Ask me about **Devops , Application Support & Automation Anywhere AZURE AWS CLOUD**
 
 - 📫 How to reach me **rohitlad9051998@gmail.com**
 
