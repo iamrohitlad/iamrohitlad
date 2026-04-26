@@ -68,30 +68,31 @@
 
 ## 🔗 Connect With Me
 
+## 🔗 Connect With Me
+
 <p align="left">
 
-<a href="" target="blank" style="margin-right: 12px;">
+<a href="https://www.linkedin.com/in/rohit-lad-750866190/" target="blank" style="margin-right: 12px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 12px;">
+<a href="https://hashnode.com/@iamrohitlad" target="blank" style="margin-right: 12px;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 12px;">
+<a href="https://leetcode.com/u/rohit_lad/" target="blank" style="margin-right: 12px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 12px;">
+<a href="https://www.hackerrank.com/profile/rohitlad9051998" target="blank" style="margin-right: 12px;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 12px;">
+<a href="https://engineer.kodekloud.com/practice" target="blank" style="margin-right: 12px;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kodekloud.svg" height="30" width="40" /></a>
 
-<a href="" target="blank">
+<a href="https://github.com/iamrohitlad" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="40" /></a>
 
 </p>
 
 - 📧 Email: rohitlad9051998@gmail.com  
-
 ---
 
 ## 📊 GitHub Stats
