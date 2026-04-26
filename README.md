@@ -67,16 +67,26 @@ Grafana | Kibana | AppDynamics
 
 ## 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/rohit-lad" target="blank">
+
+<a href="" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/@rohitlad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/rohit_lad" target="blank">
+<a href="" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
 
+<a href="" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="30" width="40" /></a>
+
+<a href="" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kodekloud.svg" height="30" width="40" /></a>
+
+<a href="" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="40" /></a>
+
+</p>
 - 📧 Email: rohitlad9051998@gmail.com  
 
 ---
