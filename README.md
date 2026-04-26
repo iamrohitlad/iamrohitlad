@@ -1,100 +1,113 @@
-<h1 align="center">Hi 👋, I'm Rohit Lad</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | Automation</h3>
+<h2 align="left">
+ Hi 👋, I'm Rohit Lad
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<p align="center">
-Passionate about building scalable infrastructure, automating workflows, and enabling fast & reliable software delivery.
+<h3 align="left">🚀 DevOps Engineer | Cloud | CI/CD | Automation</h3>
+
+<!-- BANNER -->
+<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=iamrohitlad&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=iamrohitlad&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohitlad" /> 
-</p>
+<br><br>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamrohitlad" alt="iamrohitlad" />
-  </a> 
-</p>
-
----
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 ## 👨‍💻 About Me
-- 💼 3.5+ years of experience in IT (Development → Support → DevOps)
-- ☁️ Hands-on experience with AWS & Azure Cloud
-- 🔧 Skilled in CI/CD pipelines, Docker, Kubernetes
-- ⚙️ Focused on automation, monitoring, and system reliability
-- ⚡ Passionate about reducing manual effort and improving deployment efficiency
-- 🎯 Actively seeking DevOps Engineer / Cloud Engineer roles
+
+📍 DevOps Engineer from India with 3.5+ years of experience in IT  
+
+- 💼 Experience in Development → Support → DevOps  
+- ☁️ Working with AWS & Azure Cloud  
+- 🔧 Skilled in CI/CD pipelines, Docker & Kubernetes  
+- ⚙️ Focused on automation, monitoring & system reliability  
+- 🎯 Actively targeting DevOps / Cloud Engineer roles  
 
 ---
 
-## 🔭 Current Focus
-- Building CI/CD pipelines using Jenkins  
-- Containerization with Docker & Kubernetes  
-- Working with AWS & Azure services  
-- Learning Infrastructure as Code (Terraform)  
+## 🔭 Current Work
+
+- 🚀 Building CI/CD pipelines using Jenkins  
+- 🐳 Containerizing applications using Docker  
+- ☸️ Deploying applications on Kubernetes  
+- ☁️ Exploring AWS & Azure services  
+- 📦 Learning Infrastructure as Code (Terraform)  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,git,python,bash,grafana&perline=10" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Key Focus Areas
 - CI/CD Pipeline Automation  
 - Containerization & Orchestration  
-- Cloud Infrastructure (AWS & Azure)  
+- Cloud Infrastructure  
 - Monitoring & Logging  
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Work
 
-### 🚀 DevOps & Cloud
-AWS | Azure | Docker | Kubernetes | Jenkins | Linux | Git  
-
-### 💻 Programming & Scripting
-Python | Java | Bash  
-
-### 📊 Monitoring & Tools
-Grafana | Kibana | AppDynamics  
-
----
-
-## 📌 Featured Projects
 - 📘 DevOps Training Journal  
-  👉 https://github.com/iamrohitlad/My-Devops-Training-Journal-  
+👉 https://github.com/iamrohitlad/My-Devops-Training-Journal-  
 
-- 💻 Explore My Work  
-  👉 https://github.com/iamrohitlad  
+- 💻 Explore My Projects  
+👉 https://github.com/iamrohitlad  
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
+
 <p align="left">
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="30" width="40" /></a>
+<a href="" target="blank" style="margin-right: 12px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="" target="blank" style="margin-right: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="30" width="40" /></a>
+<a href="" target="blank" style="margin-right: 12px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kodekloud.svg" height="30" width="40" /></a>
+<a href="" target="blank" style="margin-right: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="30" width="40" /></a>
 
-<a href="" target="blank" style="margin-right: 10px;">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="40" /></a>
+<a href="" target="blank" style="margin-right: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kodekloud.svg" height="30" width="40" /></a>
+
+<a href="" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="40" /></a>
 
 </p>
+
 - 📧 Email: rohitlad9051998@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrohitlad&show_icons=true&locale=en" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrohitlad" />
-</p>
+
+<table>
+  <tr>
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=iamrohitlad&show_icons=true&theme=default&hide_border=true" />
+   </td>
+   <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrohitlad&hide_border=true" />    
+   </td>
+ </tr>
+</table>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrohitlad&layout=compact" />
