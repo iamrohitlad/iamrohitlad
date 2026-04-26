@@ -67,14 +67,38 @@
 ---
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Lad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-lad-750866190/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@iamrohitlad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/rohit_lad/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/rohitlad9051998)
-[![KodeKloud](https://img.shields.io/badge/KodeKloud-DevOps-blueviolet?style=for-the-badge)](https://engineer.kodekloud.com/practice)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/iamrohitlad)
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rohit-lad-750866190/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="margin-right:15px;" />
+</a>
+
+<a href="https://hashnode.com/@iamrohitlad" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="40" style="margin-right:15px;" />
+</a>
+
+<a href="https://leetcode.com/u/rohit_lad/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" style="margin-right:15px;" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/rohitlad9051998" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40" style="margin-right:15px;" />
+</a>
+
+<a href="https://engineer.kodekloud.com/practice" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kodekloud.svg" height="40" style="margin-right:15px;" />
+</a>
+
+<a href="https://github.com/iamrohitlad" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</a>
+
+</p>
 
 - 📧 Email: rohitlad9051998@gmail.com
+- 📧 Email: rohitladdevopsprojects@gmail.com
 ---
 
 ## 📊 GitHub Stats
